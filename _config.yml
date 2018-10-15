@@ -1,6 +1,6 @@
 site: Study Guide &amp; Notes
 baseurl: ""
-url: blog.joshuafayer.com
+url: study.joshuafayer.com
 permalink: /:categories/:title/
 collections:
   category:
