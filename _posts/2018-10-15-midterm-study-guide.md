@@ -51,7 +51,7 @@ Deals with theories of representation&mdash;how does language work in our minds,
 
 1. Reflective &rarr; Language reflects real life
   * Language acts as a direct mirror to whatever is happening in real life
-  * There is no external intention or implicit meaning to the words on the paper; what you see is what you get. For example, "Dog bites man" is a factual assertion. In most contexts, it doesn't convey bias or ill intention to dogs, for example.
+  * There is no external intention or implicit meaning to the words on the paper; what you see is what you get. For example, "Dog bites man" is a factual assertion. In most contexts, it doesn't convey bias or ill intention to dogs.
 2. Intentional Approach &rarr; Language is used to convey an intended message
   * The author has a definite and purposeful intent for the language. This can be to carry bias and influence the reader.
   * _The meaning beneath the meaning_ sort of approach to language. If the author is trying to say something without directly saying it, they're likely using an intentional approach to language.
