@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{page.title}}</title>
+    {% include general.html %}
+  </head>
+  <body>
+    {% include nav.html %}
+    <div class="articlewrapper">
+      <div class="articletitle">
+        <div class="vertical-center">
+          <h1>{{page.title}}</h1>
+          <p>{{page.date | date: "%-d %B, %Y"}}</p>
+        </div>
+      </div>
+      <div class="articlebody">
+        {{content}}
+      </div>
+    </div>
+  </body>
+</html>
