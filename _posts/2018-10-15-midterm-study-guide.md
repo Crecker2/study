@@ -1,8 +1,8 @@
 ---
-title: COM 348 Midterm Study Guide
+title: COM 346 Midterm Study Guide
 layout: post
-categories: COM-348
-preview: Study guide for COM 348 midterm covering Keeble, Cannadine, Murdock, Hall, Dyer, the Editor's COC, etc.
+categories: COM-346
+preview: Study guide for COM 346 midterm covering Keeble, Cannadine, Murdock, Hall, Dyer, the Editor's COC, etc.
 ---
 # Keeble
 Split into two parts, that of the free press and that of the fourth estate.
