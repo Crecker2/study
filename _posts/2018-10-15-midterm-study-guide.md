@@ -28,7 +28,7 @@ Deals with the way class is structured and how that influences societal interact
     * Pull and push between the upper and working class
         * Kind of eliminates the middle class
     * Portrays the struggle between the upper and working class, and casts them as inherently opposed
-        * The upper class will always look down at the lower class and the lower class will always feel disdainfully towards the rich and elite.
+        * The upper class will always look down at the lower class and the lower class will always feel disdainfully towards the rich and elite
 
 
 # Murdock
@@ -37,35 +37,38 @@ Pitches seven key attributes to describe how society affects us. According to Mu
 1. Learned
   * Culture isn't inherent, we learn by growing up in society what social norms are
 2. Inculcated
-  * Culture is passed on from parents to children who learn habits and in turn spread culture to their offspring.
+  * Culture is passed on from parents to children who learn habits and in turn spread culture to their offspring
 3. Social
+  * Participatory experience dependent on the members of society
 4. Ideational
-  * Consists of ideal norms agreed upon by members of society.
+  * Consists of ideal norms agreed upon by members of society
 5. Gratifying
-  * Always satisfies basic needs of the members of society.
+  * Always satisfies basic needs of the members of society
 6. Adaptive
+  * Changes with the times
 7. Integrative
+  * Incorporates members and ideas of society, is all-encompassing
 
 # Hall
 Deals with theories of representation&mdash;how does language work in our minds, and what is it achieving in formats which influence our perceptions about people and things. Hall creates three primary forms language can assume:
 
 1. Reflective &rarr; Language reflects real life
   * Language acts as a direct mirror to whatever is happening in real life
-  * There is no external intention or implicit meaning to the words on the paper; what you see is what you get. For example, "Dog bites man" is a factual assertion. In most contexts, it doesn't convey bias or ill intention to dogs.
+  * There is no external intention or implicit meaning to the words on the paper; what you see is what you get. For example, "Dog bites man" is a factual assertion. In most contexts, it doesn't convey bias or ill intention to dogs
 2. Intentional Approach &rarr; Language is used to convey an intended message
-  * The author has a definite and purposeful intent for the language. This can be to carry bias and influence the reader.
-  * _The meaning beneath the meaning_ sort of approach to language. If the author is trying to say something without directly saying it, they're likely using an intentional approach to language.
+  * The author has a definite and purposeful intent for the language. This can be to carry bias and influence the reader
+  * _The meaning beneath the meaning_ sort of approach to language. If the author is trying to say something without directly saying it, they're likely using an intentional approach to language
 3. Constructivist/Constructionist Approach &rarr; There is an agreed-upon meaning for certain words, and the author is using this agreed-upon meaning for those words to convey a message other than what is written
-  * For certain references to politics and culture, if one is excluded from the community of people who understand that reference, they cannot understand what the author is trying to say.
-  * For example, in U.S. politics, to "bork" someone is a reference to Ronald Reagan's 1987 Supreme Court Nominee whom the Democratic party eviscerated politically to avoid the confirmation. Since then, the word "Bork" has come to mean "To defame or vilify (a person) systematically, esp. in the mass media, usually with the aim of preventing his or her appointment to public office; to obstruct or thwart (a person) in this way."
-        * Without a knowledge of that history, the word "Bork" doesn't have the same meaning. It might, in fact, mean something entirely different to someone who has a different definition of the word "Bork" in their culture or community.
+  * For certain references to politics and culture, if one is excluded from the community of people who understand that reference, they cannot understand what the author is trying to say
+  * For example, in U.S. politics, to "bork" someone is a reference to Ronald Reagan's 1987 Supreme Court Nominee whom the Democratic party eviscerated politically to avoid the confirmation. Since then, the word "Bork" has come to mean "To defame or vilify (a person) systematically, esp. in the mass media, usually with the aim of preventing his or her appointment to public office; to obstruct or thwart (a person) in this way"
+        * Without a knowledge of that history, the word "Bork" doesn't have the same meaning. It might, in fact, mean something entirely different to someone who has a different definition of the word "Bork" in their culture or community
 
 # Dyer
 Mostly deals with stereotyping: how does stereotyping happen, and what affects the way we stereotype individuals? Dyer breaks this down into four key ways we make "snap judgments" that affect our biases:
 
 1. Role - the role of a person at the current moment
-  * This could be their current function or job.
-  * We look at a butler differently than we look at a cashier, whom we look at differently than a businessperson.
+  * This could be their current function or job
+  * We look at a butler differently than we look at a cashier, whom we look at differently than a businessperson
 2. Individual - what sets this person apart from others
   * Could be a particular hairstyle, clothing, or other attributes
   * A businessperson with a septum piercing, tattoos, dyed hair, and gauges might be looked at differently than someone with no body modifications
