@@ -171,3 +171,49 @@ The decline of US diplomacy really started after the end of the Cold War. In the
 # Essays
 
 ## 1. Suzy Hansen interviewed an Iraqi man who said to her, “We know so much about your country. And you don’t know anything about my country at all.” Why is it difficult for Americans in general to empathise with certain foreign perspectives? Draw on relevant theoretical concepts and historical examples.
+  * Intro
+    * Hansen's take on American Exceptionalism: _America is unique_.
+    * Those in power lack empathy (Hansen)
+    * The Vietnam Syndrome
+      * Americans come to realize the nature of war as it was reported in Vietnam.
+      * The Reagan administration quickly devised a way to spin war in a way that was more positive.
+      * Americans have a weak grasp on the realities of war because of how war is portrayed in the media.
+    * Conclusion
+      * Americans are not taught to empathise with people from other nations
+      * It is an inculcated social value that we are totally unique and exceptional, and that intervention in other countries is benevolent and for the benefit of other countries.
+
+## 2. The liberal/conservative oppositional divide in the United States could be said not to apply as much to foreign relations or to each major political party’s vision of America in the world. Using what we have studied in the first half of this course, how would you make that argument?
+  * National narrative held by both sides
+    * Opposition to war is scarce, "rally around the flag effect" nearly ubiquitous among elected officials, and in turn the citizens.
+    * 9/11
+    * Cold War
+  * Both sides believe in nationalization paradigm
+    * Democracy, capitalism, freedom are all values we need to spread through our foreign policy
+    * Main function of U.S. is to use our power and might to foster and protect democracy
+  * Both sides hold the belief that America is exceptional and has the unique responsibility to “help” foreign powers
+    * Systematic racism influences our belief that the "American savior" is a necessary component to any successful international movement
+    * Orientalism feeds the belief that we are a wholly superior people, and those who grow up in the Middle-East need our Western ideals to become as successful as we have become.
+  * Both believe in Bush Doctrine
+    * No elected official will ever say "America isn't exceptional," and if they did they'd soon be mobbed out of office
+  * In-group vs. Out-group mentality
+    * **Out-group homogeneity effect:** we perceive everyone in an out-group as the same
+    * **Accentuation effect:** accentuates differences between in-group and out-group members, bias towards information that enhances differences
+    * **In-group bias:** In-group members more interested in beating out-group than in gaining as much as possible.
+    * Therefore:
+      * America is totally different than the rest of the world, and there's a heavy bias towards information which fuels this perception
+      * "America First" mentality clear in in-group bias, influences attitude towards foreign aid: _"but how does this help us?"_
+
+## 4. Two cornerstones of democracy, it can be argued, are the rule of law and the existence of an informed citizenry. Based on your studies in the first half of the course, in what ways have these two cornerstones been eroded within the United States since the end of the Second World War?
+  * Rule of Law
+    * NDAA - U.S. government can ignore Due Process
+    * CIA operates covertly without regard for international law (or how it stacks up compared to our own domestic laws, for that matter)
+    * Bush Doctrine: Just wars vs. wars of aggression
+      * Can a pre-emptive war ever be considered "just?"
+  * Informed Citizenry
+    * Vietnam Syndrome - history of U.S. presidents lying, stretching truth, spinning media to support war efforts
+      * Indoctrinated even the soldiers they have on the ground who later may realise they don't support the war efforts _('Spin, with Josh Rushing')_
+      * American bias in media
+        * In an increasingly globalised world, there is no "America only," yet a strong majority of our news is reported without regard to foreign perspectives
+        * With an American echo chamber, there's less information to go around that may fuel informed decisions
+        * Fracturing of media has created further poltical echo chambers
+        * Rise of fake news scandal and anti-intellectualism in America
