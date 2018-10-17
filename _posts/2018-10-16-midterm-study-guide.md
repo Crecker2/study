@@ -65,7 +65,7 @@ The United States’ foreign relations have been in part determined by systemic 
 
 ## 9. Define 'orientalism' and explain its significance in the West's foreign relations.
 
-“A subtle and persistent Eurocentric prejudice against Arab-Islamic peoples and their cultures,” which derives from Western images of what is Oriental that reduce the Orient (the Middle-East) to the fictional essences of “Oriental peoples.”  The cultural representations of Orient depict the Orient as “primitive, irrational, violent, despotic, fanatic, and inferior. It is only when the West imposes itself on these societies that they change for the better. According to Edward Said, this notion of Orientalism dates back to European Enlightenment and the Western colonization of the Arab World.  
+“A subtle and persistent Eurocentric prejudice against Arab-Islamic peoples and their cultures,” which derives from Western images of what is Oriental that reduce the Orient (the Middle-East) to the fictional essences of “Oriental peoples.”  The cultural representations of Orient depict the Orient as "primitive, irrational, violent, despotic, fanatic, and inferior." It is only when the West imposes itself on these societies that they change for the better. According to Edward Said, this notion of Orientalism dates back to European Enlightenment and the Western colonization of the Arab World.  
 
 Historically, Orientalism has greatly affected the West’s foreign relations specifically with Middle-Eastern countries as can be seen in the American invasion of Iraq.
 

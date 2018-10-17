@@ -107,4 +107,4 @@ The Editor's Code of Conduct doesn't, itself, have any power. The only way newsp
 
 ## Problems with the Codes of Conduct:
 
-It's pretty toothless and vague. Journalists still take nudes through windows and TMZ are still complete and total fucking fuckwads. IPSO has a standards board but they've never actually filed and charged a complaint, no newspapers have ever been sued, and participation with IPSO is entirely voluntary.
+It's pretty toothless and vague. Journalists still take nudes through windows. IPSO has a standards board but they've never actually filed and charged a complaint, no newspapers have ever been sued, and participation with IPSO is entirely voluntary.
