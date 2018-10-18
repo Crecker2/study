@@ -36,9 +36,9 @@ Sinclair's national bamboozle is a manifestation of a larger problem: news progr
 
 ## What is significant about how the news is framed? How is international conflict covered?
 
-Frames are the socially shared/persistent organizing principles that work symbolically to meaningfully structure the world. They influence the way stories are produced and consumed, and highlight and evaluate perceived realities. It might help to think of framing in the news in the same way as framing in a camera shot: what are/aren’t you showing and why? How does this portray a story?
+Frames are the socially shared/persistent organizing principles that work symbolically to meaningfully structure the world. They influence the way stories are produced and consumed, and highlight and evaluate perceived realities. Framing in the news is analogous to framing in a camera shot: what are/aren’t you showing and why? How does this portray a story?
 
-For example, the UK and US frame all Islam and Muslim people as terrorists or related to terrorism and deviance because it simplifies a complex group and perpetuates the idea of fear&mdash;the more scared they are, the more they will look toward the news. When the news’s assumptions pan out, even in the slightest, the trust between reporter and viewer strengthens. This is called confirmation bias.
+For example, the UK and US frame all Islam and Muslim people as terrorists or related to terrorism because it simplifies a complex group and perpetuates the idea of fear&mdash;the more scared they are, the more they will look toward the news. When the news’s assumptions pan out, even in the slightest, the trust between reporter and viewer strengthens. This is called confirmation bias.
 
 
 ## Why has ad revenue dropped for newspapers and how have they made up the gap? How has the online environment changed advertising and content? How are ways that traditional newspaper can fight back?
@@ -55,7 +55,7 @@ Objectivity refers to telling just the facts, without room for bias, slant, or f
 
 "You can't be neutral on a moving train," so goes the famous saying. Issues society fundamentally opposes, such as child marriage, are unethical and disgusting in our culture. It’s difficult for journalists to look at it from a neutral standpoint. Those stories will inherently be presented in a negative light.
 
-Americans do not think that the media is doing a good job because they struggle to separate fact from opinion. Political polarisation among news networks have created news bubbles. Polarising views of Fox and CNN, for example, enable networks to present the same story in two entirely different lights while still passing their product off as objective news. This is entirely dependent on their political audiences, and who is willing to consume their content and feed their bottom line.
+Americans do not think that the media is doing a good job because generally they struggle to separate fact from opinion. Political polarisation among news networks have created news bubbles. Polarising views of Fox and CNN, for example, enable networks to present the same story in two entirely different lights while still passing their product off as objective news. This is entirely dependent on their political audiences, and who is willing to consume their content and feed their bottom line.
 
 Americans don’t like social media as a news source but do value internet news (without targeted ads) in general. Despite this, most Americans obtain their news through social media. The consensus is that social media is opinionated and isn’t as much news as it is an echo chamber of ideas among friends/followers. This is reinforced by algorithms which, like news organisations, seek too feed users with information they're likely to interact with and enjoy. Facebook and Twitter have no financial incentive to provide a user with a wide variety of political opinions.
 
@@ -81,9 +81,9 @@ Words can be said to have a reality-making effect because they are indicative of
 
 ## Why do we want to separate into groups? Define in-group v out-group. What happens when we assign people to an in-group? What are the effects? Why is this important? Why do we make people part of an out-group? What are the effects? Where do we see this in the media or entertainment?
 
-Social separation enables us to assign people to broad social categories, simplifies the world, and creates and defines our places in the world. An **in group** is a group of people who are assumed to share some similar characteristic; an **out-group** is the rest of the world, who does not fit in the in-group. Studies have shown that even with superficial or non-existent differences separating the in-group and out-group, people still hold preference towards the people in their in-group. This can go as far as sabotaging the out-group.
+Social separation enables us to assign people to broad social categories, simplifies the world, and creates and defines our places in the world. An **in-group** is a group of people who are assumed to share some similar characteristic; an **out-group** is the rest of the world, who does not fit in the in-group. Studies have shown that even with superficial or non-existent differences separating the in-group and out-group, people still hold preference towards the people in their in-group. This can go as far as sabotaging the out-group.
 
-This psychological phenomenon has real-world implications when the media’s coverage of non-western countries, especially the Middle East, treats western countries with particular preference, and assumes a homogenous bunch of out-groupers who are all identical in the eyes of the media.
+This psychological phenomenon has real-world implications when the media’s coverage of non-western countries, especially the Middle East, treats western countries with particular preference, and assumes a homogenous bunch of out-groupers who are all identical.
 
 ## How and why did the media cover 9/11 in the way it did? Why do we need the media to be reflective in times of turmoil? How did semiotics come into play? Has the coverage of Muslims or Islam changed since then? Why or why not? Why does it matter how terrorism or Muslims are portrayed in the news and entertainment media? What are the effects of this kind of coverage?
 
@@ -97,7 +97,10 @@ Some believe this is due to lazy journalists and uninformed pundits. It can be t
 
 The effectiveness of political satire is determined by its ability to be entertaining while also conveying truth. The audience should be able to understand the irony at the heart of it while still understanding its humor. Satire fails when people take it as a representation of the truth (Colbert is a parody of Conservative America, but some conservatives took The Colbert Report as an unironic depiction of conservatism).
 
-Political satire is important because it has the potential to spread virally, the messages in it are more memorable than that of news media because they are humorous, and it can help narrow the “attentiveness gap” between young and old populations.
+Political satire is important because:
+  * It has the potential to spread virally
+  * The messages in it are more memorable than that of news media because they are humorous
+  * It can help narrow the “attentiveness gap” between young and old populations.
 
 Alternatively, satire might not matter at all because:
   * It builds on pre-existing biases and beliefs, so it may not have the power to influence at all
@@ -109,8 +112,8 @@ Alternatively, satire might not matter at all because:
 Populists appeal to the public by being anti-establishment. They frame the government as the enemy of the people, and create an us vs. them of the people vs. the government. Populists frequently invent qualifiers to describe when someone is part of their group or not: _are you a **real** American, or a **fake** one?_ Nationalism rose in Europe due to corruption in many European nations. Economic crises in nations like Italy also fueled public panic and desire for a savior to step in and fix it all (Italy elected its own version of Trump during the last election cycle).
 ## What makes a good speech?
 
-There are a few key rhetorical devices that make good speeches. Chiefly, the use of negative space and pauses can make or break speech delivery. In addition, here are a few runner-ups:
-  * Use of the tricolon device: things always sound better in 3s. Good things, bad things, decent things; three is the way to go. See what I did there?
+There are a few key rhetorical devices that make for good speeches. Chiefly, the use of negative space and pauses can make or break speech delivery. In addition, here are a few runner-ups:
+  * Use of the tricolon device: things always sound better in 3s. Good things, bad things, decent things; three is the way to go.
   * [Chiasmus](https://en.wikipedia.org/wiki/Chiasmus)
   * Use of repetition
   * Using imagery effectively
