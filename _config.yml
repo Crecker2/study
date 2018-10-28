@@ -12,3 +12,5 @@ defaults:
       type: category
     values:
       layout: "category"
+plugins:
+  - jekyll-sitemap
