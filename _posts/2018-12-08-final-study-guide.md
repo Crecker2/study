@@ -117,6 +117,29 @@ Theory of representation in media from white perspective.
 3. The Humerous (minstrel performers)
 4. The pitied (starving refugees)
 
+## Pilger
+
+### Terrorism in Media
+According to Pilger, Western media portrays terrorists exclusively as Middle-Eastern who fit the media narrative of the "Muslim fanatic." Muslims have only contributed to a tiny portion of the overall death count by religious fanaticism, but this is a narrative shifted by the media. **"Terrorists...become any foreign people you don't like."** The media's fixation with "demographic themes" creates a panic, and even though we've invaded Eastern territories, we become the recipient of an Eastern invasion of migrants.
+
+### Second Reading
+The second reading concerns the media's narrative regarding occupation and influence in imperialized territories. The West has a conventional narrative that the was no invasion or occupation. Pilger reasserts the Western narrative that "the West itself is never a terrorist." They cannot be the aggressor, as the invaded people "have practically no social conscious".
+
+## Cohen
+
+### Deviance and Moral Panic
+This theory sets up a cyclical progression of moral panic that goes something like this:
+1. A moral issue, a "condition, episode, person or group of persons," emerges in society
+2. The mass media take a stance on it and presents it to the masses in a "stylized" fashion
+3. Society sets up "moral barricades" by turning to moral leaders such as editors, bishops, politicians, and other "right-thinking people" for guidance
+4. Accredited experts prescribe diagnoses and solutions
+5. Ways of coping evolve
+6."The condition then disappears, submerges, or deteriorates and becomes more visible"
+
+This progression defines how society has treated a handful of social situations. In the UK, the authors cite hooliganism among the youth as a primary example, pointing to The Teddy Boys, the Mods, the Rockers, the Hells Angels, the skinheads, and the hippies. Recently, they say, the same attitude has been conveyed over football hooliganism, the drug problem, student militancy, poitical demonstrations, and violence in general.
+
+##
+<!--Divider-->
 # Editor’s Codes of Conduct
 Lays out the self-placed regulations put on the media by the media, and enforced by [IPSO](https://ipso.co.uk/).
 
@@ -149,45 +172,50 @@ It's pretty toothless and vague. Journalists still take nudes through windows. I
 # Nameplates
 
 ## The Times
+The Times is geared to an upper-middle class audience; it therefore contains a lot of information about business, politics, etc. The Times is a **right-leaning paper** and considered "Britain's most trusted newspaper." It uses nuance to talk about delicate issues like race, gender, etc., unlike some other publications which pride themselves on a "brutal honesty" sort of attitude. The Times tends to be a little elitist, pandering to its upper-middle class audience.
 
 ## The Sunday times
-
+The Sunday version of the [Times](#the-times).
 ## The Daily Telegraph
-
+Not a red-top paper (tabloid press), it is a broadsheet. It has a lot of political stances, and supports the Tories in a lot of those. It is a **centre right-leaning** paper. Its tone tends to be a little divisive, and often it pits liberals against conservatives when talking about politics. Its tone can be a little condescending to those whom it disagrees with.
 ## The Sunday Telegraph
-
+The Sunday version of [The Daily Telegraph](#the-daily-telegraph).
 ## The Guardian
-
+The Guardian is a historically broadsheet paper. Its target audience is an educated population, and its political affiliation tends to be **centre-left**. It tends to write to an upper-middle class audience, and focuses on a metropolitan, very London-specific audience.
 ## The Observer
-
+The Sunday version of [The Guardian](#the-guardian).
 ## The Independent
 
 ## The Independent On Sunday
-
+The Sunday version of the [Independent](#the-independent).
 ## I
-
+Used to be the cheaper version of the [Independent](#the-independent), but is now the only print version of the two.
 ## Daily Express
+The Daily Express seeks to act as both the fourth estate and the free press, but it does both pretty poorly. To accomplish either of these things, a paper must be impartial. The Daily Express is a far, far **right-leaning paper**, and its readership supports nearly unequivocally a conservative government. It has nearly nothing positive to say about Labour, and nearly nothing negative to say about the Tories or UKIP.
 
+There is a lot of celebrity news about royalty, politicians, and other famous and influential people. The Daily Express takes a dichotomous approach to portraying class: it pits the upper and working classes against each other with divisive and inflammatory rhetoric.
+
+According to Dyer's theory of representation, there is a lot of member-group stereotyping: Tories are this way, Labour is this way, "youngsters" are this way.
 ## Sunday Express
-
+The Sunday version of the [Daily Express](#daily-express).
 ## The Sun
-
+The sun is a **red-top tabloid paper**. Monday-Saturday, the Sun is the best-selling paper in the UK. There is an emphasis on exclusion with humor; lots of constructivist in-groups. The coverage of classes tends to be **dichotomous**. It is a **right-leaning paper**, often supporting May and it appeals to a specific kind of Conservative.
 ## News of the World
 
 ## The Sun Sunday
-
+The Sunday version of [The Sun](#the-sun).
 ## Daily Mirror
-
+This paper is a heavily biased **left-leaning paper**, kind of the [Daily Express](#daily-express) equivalent for liberals. The audience tends to be younger for this paper than for most of the other papers. It is a **red-top** tabloid paper.
 ## Sunday Mirror
-
+The Sunday version of the [Daily Mirror](#daily-mirror).
 ## The People
 
 ## Daily Mail
-
+The Daily Mail is the **second-best selling paper in the UK**. It is a **right-leaning** paper that tends to side with May. Its coverage is often elitist. It tends not to really watch the rulers very well, hence not acting as a free press. Its coverage is often **constructivist** and **intentional**.
 ## The Mail On Sunday
-
+The Sunday version of the [Daily Mail](#daily-mail).
 ## Daily Star
-
+This is a cheaper derivative of [The Sun](#the-sun).
 ## Daily Star Sunday
-
+The Sunday version of the [Daily Star](#daily-star).
 # Significant Dates

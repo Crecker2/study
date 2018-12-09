@@ -149,6 +149,7 @@ preview: HOA 201 final study guide including notes on paintings we should know f
 
 ## Conservation and Restoration
 **Conservation** = preserving the artwork as we receive it or have it today
+
 **Restoration** = trying to restore the painting or artwork to its original state
 
 **Fresco** was done by painting into wet plaster that was put on top of dry plaster with compositional sketches on it - the paint dried with the second layer of wet plaster and bonded more durably with the plaster. This is why we still have a lot of Renaissance frescoes. After the bulk of the plaster dried, the artist would add details like eyes and faces into the fresco by painting in a "secco" manner.
