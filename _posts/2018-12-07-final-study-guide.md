@@ -89,7 +89,7 @@ preview: HOA 201 final study guide including notes on paintings we should know f
   * Refused to use black in landscapes because black is not a natural color (i.e. it does not appear in nature)
 
 ## _Christ and St. Peter,_ Perugino, 1481
-![Holbein, The Ambassadors](/assets/images/hoa201/holbein_ambassadors.jpg)
+![Holbein, The Ambassadors](/assets/images/hoa201/perugino_christ_st_peter.jpg)
 * Christ is seen here with St. Peter giving him the Keys to the Kingdom
 * Important note on technique
   * Use of perspective, distance, and scale
