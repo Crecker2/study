@@ -164,9 +164,14 @@ National Gallery historically has been lambasted for "ruining" paintings by remo
 
 There are a few other important conservation gaffes to know:
 * **Santa Croce:** Giotto’s Bodi Chapel: 1700’s, Giotto’s frescoes were whitewashed over and tombs put up. When medieval things became vogue again in the 1800’s, the whitewash and wall tomb was removed, but part of the fresco came with it. In the 1900’s that paint was added back in, but 50 years later, it was removed.
+![Bardi chapel painting](/assets/images/hoa201/bardi_chapel.jpg)
 * **Leonardo’s Last Supper:** The church with the Last Supper painting was largely destroyed WWII, except the last Supper wall; in the 1980’s, it was decided to conserve Leonardo’s fresco. Leonardo painted 5 frescoes that we know of, and all but this have disappeared, because from the 1500’s onward, the fresco was conserved as it started to fade. As the conservationists stripped down to try and find Leonardo’s base layer, they realized it didn’t exist, that it had also faded over time. So the conservationists repainted the entire thing to hide the story.
+![Leonardo's Last Supper](/assets/images/hoa201/leonardo_supper.jpg)
 * **Sistine Chapel:** The conservationists removed shadows and shading along the ceiling because "Michelangelo wouldn’t have painted in secco." When they realized he would, they were about half-way done with the vault (ceiling), so they just finished removing the shadows and shading throughout the entire chapel. The whole thing now looks a little Disney.
 Michelangelo sketches reveal that he intended to use shadows.
+![Michelangelo Sistine Chapel](/assets/images/hoa201/michelangelo_sistine.jpg)
+* **Adam and Eve:** Massolino and Massaccio's Adam and Eve painting was restored, arts of the bodies were missing. Restorers chose to interpret Adam and Eve as without genital coverings. This Adam and Eve is now the only Adam and Eve without coverings.
+![Masolino and Masaccio Adam and Eve](/assets/images/hoa201/masolino_masaccio_adam_eve.jpg)
 
 ## The Art Market
 The art market is all about _taste;_ if a piece is fashionable, it goes up in price. *Example:* van Gogh's paintings were worth probably _literal_ dirt when he was alive, but now, if you were to try to pay for a van Gogh painting with dirt, it would be like, an absurd amount of dirt. Nothing's changed about the paintings, but demand has gone up, and so has the volume of dirt.
