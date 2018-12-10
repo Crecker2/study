@@ -170,7 +170,7 @@ There are a few other important conservation gaffes to know:
 * **Sistine Chapel:** The conservationists removed shadows and shading along the ceiling because "Michelangelo wouldn’t have painted in secco." When they realized he would, they were about half-way done with the vault (ceiling), so they just finished removing the shadows and shading throughout the entire chapel. The whole thing now looks a little Disney.
 Michelangelo sketches reveal that he intended to use shadows.
 ![Michelangelo Sistine Chapel](/assets/images/hoa201/michelangelo_sistine.jpg)
-* **Adam and Eve:** Massolino and Massaccio's Adam and Eve painting was restored, arts of the bodies were missing. Restorers chose to interpret Adam and Eve as without genital coverings. This Adam and Eve is now the only Adam and Eve without coverings.
+* **Adam and Eve:** Masolino and Masaccio's Adam and Eve painting was restored, arts of the bodies were missing. Restorers chose to interpret Adam and Eve as without genital coverings. This Adam and Eve is now the only Adam and Eve without coverings.
 ![Masolino and Masaccio Adam and Eve](/assets/images/hoa201/masolino_masaccio_adam_eve.jpg)
 
 ## The Art Market
