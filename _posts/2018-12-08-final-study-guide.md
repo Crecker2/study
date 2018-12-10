@@ -138,7 +138,8 @@ This theory sets up a cyclical progression of moral panic that goes something li
 
 This progression defines how society has treated a handful of social situations. In the UK, the authors cite hooliganism among the youth as a primary example, pointing to The Teddy Boys, the Mods, the Rockers, the Hells Angels, the skinheads, and the hippies. Recently, they say, the same attitude has been conveyed over football hooliganism, the drug problem, student militancy, poitical demonstrations, and violence in general.
 
-##
+## Levy
+There is a difference between the way we treat masculine and feminine expressions of sexuality. Levy refers to this as the male and female "chauvinist pig". The male chauvinist is a crass, profane, and generically frowned upon character; the female chauvinist is post-feminist and more equal expression of sexuality.
 <!--Divider-->
 # Editor’s Codes of Conduct
 Lays out the self-placed regulations put on the media by the media, and enforced by [IPSO](https://ipso.co.uk/).
@@ -218,4 +219,18 @@ The Sunday version of the [Daily Mail](#daily-mail).
 This is a cheaper derivative of [The Sun](#the-sun).
 ## Daily Star Sunday
 The Sunday version of the [Daily Star](#daily-star).
+
+<!--Divider-->
 # Significant Dates
+* The British Nationality Act of 1948 allowed colonial citizens to work in the UK under certain provisions, and to gain citizenship in Britain after a certain amount of time. This extended to family, and was a policy through Africa, the West, and India.
+  * In 1947, the former Indian territory became a sovereign state, partitioned by religion into India ad Pakistan
+  * Bangladesh became a sovereign state in the 1970s.
+* Notting Hill Riots happened in 1958, when landlords exploited racial prejudices and fears over housing and job shortages to drum up anti-immigrant sentiments. The riots started due to a dispute involving an interracial couple. The riots lasted 5 weeks.
+* The Race Relations Act of 1965 was the first bill to protect the rights of minorities from discrimination
+* In 1967, homosexuality was decriminalized. However, this only applied to men over 25, a higher age of consent than for straight relationships. It also came with several other odd stipulations:
+  * Gay couples weren't allowed in the same house as straight couples
+  * It didn't apply to women, as lesbianism was not considered to be "real" at the time
+  * Due to the prejudice and moral panic that arose out of the passage of the legislation, a secret code "Pulsari" language developed so gay men could identify each other without risking outing themselves
+* 2nd Race Relations Act of 1968 made it illegal to refuse housing, employment, or services on the basis of race
+* Commonwealth Immigration Bill of 1968 revised previous immigration policy, forcing prospective immigrants to prove a link to the UK
+* 
