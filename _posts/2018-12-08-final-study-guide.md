@@ -233,4 +233,4 @@ The Sunday version of the [Daily Star](#daily-star).
   * Due to the prejudice and moral panic that arose out of the passage of the legislation, a secret code "Pulsari" language developed so gay men could identify each other without risking outing themselves
 * 2nd Race Relations Act of 1968 made it illegal to refuse housing, employment, or services on the basis of race
 * Commonwealth Immigration Bill of 1968 revised previous immigration policy, forcing prospective immigrants to prove a link to the UK
-* 
+  * Strong divergence from the Nationality Act of 1948
