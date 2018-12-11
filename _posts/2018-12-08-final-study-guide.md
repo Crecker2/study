@@ -222,6 +222,7 @@ The Sunday version of the [Daily Star](#daily-star).
 
 <!--Divider-->
 # Significant Dates
+## Important Dates for Race
 * The British Nationality Act of 1948 allowed colonial citizens to work in the UK under certain provisions, and to gain citizenship in Britain after a certain amount of time. This extended to family, and was a policy through Africa, the West, and India.
   * In 1947, the former Indian territory became a sovereign state, partitioned by religion into India ad Pakistan
   * Bangladesh became a sovereign state in the 1970s.
@@ -234,3 +235,13 @@ The Sunday version of the [Daily Star](#daily-star).
 * 2nd Race Relations Act of 1968 made it illegal to refuse housing, employment, or services on the basis of race
 * Commonwealth Immigration Bill of 1968 revised previous immigration policy, forcing prospective immigrants to prove a link to the UK
   * Strong divergence from the Nationality Act of 1948
+
+
+## Other important dates
+
+* British Broadcasting Company (BBC) Radio launched in 1922
+* BBC became a corporation in 1927
+* BBC 2 launched in 1964, serving mostly as laughter entertainment
+* BBC 3 was an online-only channel
+* BBC 4 launched in 1982 to represent underrepresented populations
+* Channel 5 launched in 1997 as a dedicated USA channel
