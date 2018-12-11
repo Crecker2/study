@@ -189,8 +189,35 @@ nav{
   margin-bottom: 25px;
   background-color: #fff;
   padding: 50px;
+  padding-top: 30px;
 }
 
+.articlebody .show-hide-button{
+  display: block;
+  text-align: center;
+}
+
+.articlebody .show-hide-button button{
+  background-color: #ffb759;
+  padding: 8px 15px;
+  border-radius: 5px;
+  display: block;
+  margin: 5px auto 15px auto;
+  border: none;
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  transition: .3s all;
+  text-transform: uppercase;
+}
+
+.articlebody .show-hide-button button:hover{
+  background-color: #f59a23;
+}
+
+.articlebody p, .articlebody li{
+  transition: .3s all;
+}
 .articlebody img{
   width: 80%;
   max-width: 500px;
