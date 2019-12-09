@@ -5,10 +5,6 @@ categories: FRE-101
 preview: Study guide for FRE 101 final covering the entire year's worth of French, with emphasis on -er verbs, higher numbers, articles, weather, the verb "faire", questions, culture, adjectives, negation, and the future proche tense.
 ---
 
-à/è/ì/ò/ù
-â/ê/î/ô/û
-é
-ç
 # Verbs
 
 ## -er Verbs
@@ -157,6 +153,12 @@ Faire gets its own section because it's a special little verb that gets used wit
 * faire une tour (en voiture) = "to go for a walk/for a drive"
 * faire du vélo = "to go bike-riding"
 
+### Aller, specifically: _Le Futur Proche_
+This is a special tense formed with the verb "aller" which describes something that is about to happen or something that will happen soon. Construction of the _futur proche_ is pretty simple: conjugate aller in the present tense as normal, and then put another verb's infinitive form right after it. For example:
+* Nous allons jouer un match = "We are going to play a match"
+* Je vais déjuener sur la terrasse = "I'm going to eat lunch on the terrace"
+* Elles vont retrouver Josh à la boîte de nuit = "They're going to meet Josh at the nightclub"
+
 # Articles
 
 Articles are used to modify or indicate nouns. Examples of articles in english are "a/an", "the", "some", etc. There are several kinds of articles in French, much the same as in English.
@@ -223,3 +225,100 @@ Expressions related to weather and the seasons are below:
   * octobre = October
   * novembre  = November
   * décembre = december
+
+# Questions
+
+There are four primary ways to form a question in French, but really only two of them are relevant. One is to append the phrase "Est-ce que/qu'" to a sentence. The other is to use inversion by switching the order of the subject pronoun (il/elle/etc.) and the verb and placing a hyphen between them, or if connecting a verb that ends in a vowel with a pronoun that begins with a vowel, adding "-t-" in between them.
+
+Example: "Mange-t-il à midi?" = "Does he eat at noon?"
+
+If your subject is a noun rather than a pronoun, place it at the start of the sentence and then use inversion as normal, as in: "Robert mange-t-il à midi?" = "Does Robert eat at noon?"
+
+A _very important_ phrase to know the inversion form of is "il y a," which means "there is". The inversion form is **"y a-t-il."** Similarly, the phrase "est-ce" is actually the inverted form of "c'est."
+
+Other important question words and phrases to know:
+* à quelle heure? = "At what hour?"
+* quel(le)(s) = "which? what?"
+* combien (de) = "How many ...?"
+* comment = "how?"
+* où = "where?"
+* pourquoi = "why?"
+* quand? = when?
+* que/qu' = "what?"
+* qui? = "who/whom?"
+* (à/avec/pour) qui? = "to/with/for whom?"
+* quoi? = "what?"
+
+# Adjectives
+There are a _butt ton_ of adjectives and it's kind of unreasonable to learn all of them, but they're all here just in case. Study at your own discretion.
+
+## Regular Descriptive Adjectives
+* bleu(e) = "blue"
+* blond(e) "blonde"
+* châtain = "brown"
+* court(e) = "short"
+* grand(e) = "tall, big"
+* jeune = "young"
+* joli(e) = "pretty"
+* laid(e) = "ugly"
+* marron = "brown" but cannot be used to describe hair
+* noir(e) = "black"
+* petit(e) = "small/short"
+* raide = "straight (hair)"
+* vert(e) = "green"
+
+## Irregular Descriptive Adjectives:
+Some adjectives are highly irregular. They've still got a bit of a pattern to them, though, if that's any consolation!
+
+| Masc. sing.  | fem. sing.     | masc. pl.     | fem. pl.        | definition          |
+|--------------|----------------|---------------|-----------------|---------------------|
+| beau         | belle          | beaux         | belles          | beautiful; handsome |
+| bon          | bonne          | bons          | bonnes          | good; kind          |
+| fier         | fière          | fiers         | fières          | proud               |
+| heureux      | heureuse       | heureux       | heureuses       | happy               |
+| intellectuel | intellectuelle | intellectuels | intellectuelles | intellectual        |
+| long         | longue         | longs         | longues         | long                |
+| naïf         | naïve          | naïfs         | naïves          | naive               |
+| roux         | rousse         | roux          | rousses         | red-haired          |
+| vieux        | vielle         | vieux         | vielles         | old                 |
+
+## BRAGS
+Some adjectives are called **BRAGS** adjectives. These are adjectives that describe someone or something's _beauty, rank, age, goodness, or size_. They will always come _before_ a noun rather than after, as most other adjectives do. Below are some BRAGS adjectives:
+* **B**: beau, joli(e)
+* **R**: premier, deuxieme ("second"),
+* **A**: nouveau, vieux, jeunne
+* **G**: bon, mauvais
+* **S**: grande, petit, gros, long
+
+# Negation
+This is one of those concepts in French that shouldn't be nearly as confusing as it is, but it _does_ get a lot easier once you've done it a bunch.
+
+Negation in French is expressed with the phrase "ne ... pas" surrounding a verb, or "n'... pas" attached to a verb that starts with a vowel. For example:
+* Je ne dessine pas bien = "I don't draw well"
+* Elles n'étudiant pas la french. = "They don't study french"
+
+Some other somewhat important words that have to do with negation:
+* oui = "yes"
+* si = "yes" (but is only used when responding in the affirmative to a negated question)
+* bien sûr = "of course"
+* moi/toi non plus = "me/you neither"
+* non = "no"
+* mais non = "but of course"
+* pas du tout = "not at all"
+* peut-être = "maybe, perhaps"
+
+# Culture
+This is the most hopeless of the sections so I've relegated it to its own little place on the bottom of the page where I hopefully never have to look at it in despair. We've been told one specific piece of trivia that we'll have to know for the final, so I'm going to put that here:
+
+## Zinédine Zidane (Zizou)
+Zizou is a french football player. He's from Marseille, and was named three times the player of the year by FIFA. During his career, he played for several different french teams, and also played for an Italian team and for Real Madrid, in Spain.
+
+## Food
+This section is a bit of culture and a lot of vocab.
+
+
+à/è/ì/ò/ù
+â/ê/î/ô/û
+é
+ï
+ç
