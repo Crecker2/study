@@ -187,6 +187,17 @@ Partitive articles refer to nouns that either cannot be counted, or when a quant
 * de l' (masc./fem. sing. w/ vowel)
 * de (any case in a negative sentence)
 
+# Pronouns
+## Disjunctive Pronouns
+Disjunctives are used to refer to people&mdash;recall Mme. Stanley's example of "don't drop _I/me_." In this case, a disjunctive pronoun, "me," is used to refer to the speaker in the first person singular rather than the personal pronoun "I". The same pronouns exist in French.
+* Je -> moi
+* Tu -> toi
+* elle -> elle
+* nous -> nous
+* vous -> vous
+* ils -> eux
+* elles -> elles 
+
 # Weather
 Expressions related to weather and the seasons are below:
 * il fait ... degrés = "it is ... degrees"
